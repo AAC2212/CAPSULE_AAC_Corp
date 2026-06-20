@@ -67,3 +67,6 @@ Estos son solo algunos ejemplos de las restricciones implementadas.
 
 # CREADOR:
   **ANDRO AGUILERA CAZANAVE**
+
+# CONOCIMIENTOS ADQUIRIDOS:
+Gracias al desarrollo de este programa, logré un mejor entendimiento del trabajo en python, el uso de las funciones, de las clases y a usar streamlit.
