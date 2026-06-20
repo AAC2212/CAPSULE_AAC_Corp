@@ -2,7 +2,7 @@
 
 ## DESCRIPICÓN:
 **CAPSULE AAC Corp.** es una aplicación web desarrollada en Python que simula un planificador de eventos para un centro de investigación de medicamentos. Se podrán planificar eventos como Controles de caliad o creaciones de medicamentos teniendo en cuenta que cada evento que se quiera planificar cumpla con las restricciones establecidas (exclusión o dependecia entre recursos), que no entre en conflicto con los eventos ya planificados.
-La aplicación modela el Centro de Investigación AAC, en el cual se llevarían a cabo todos los eventos que se planifican usando los recursos disponibles(el personal del centro).La duración de cada evento estará dada en días y el período de planificación será de 10 años. *El Centro de Investigación AAC es un lugar completamente imaginario, cualquier semejanza o parecido con la realidad es pura coincidencia.*
+La aplicación modela el Centro de Investigación AAC, en el cual se llevarían a cabo todos los eventos que se planifican usando los recursos disponibles(el personal del centro).La duración de cada evento estará dada en días y el período de planificación será de 10 años. ***El Centro de Investigación AAC es un lugar completamente imaginario, cualquier semejanza o parecido con la realidad es pura coincidencia.***
 
 ## USO:
 Ejecutar la aplicación desde la terminal:
@@ -10,15 +10,14 @@ Ejecutar la aplicación desde la terminal:
 Abrir su navegador en la direciión http://localhost:8501 o la URL señalada.
 
 ## ESTRUCTURA:
-
-Funciones.py -> Lógica backend del programa para verificar validez de eventos, guardar tipos de evento, recursos y eventos planificados.
-main.py -> Página principal/home de la aplicación. En ella se define la navegación entre el resto de páginas.
-DataBase.json -> Archivo para persistencia de datos.
-Main_Page.py -> Priemra página de la aplicación. (Descripción en 'Presentación'>'EVENTOS PLANIFICADOS')
-Second_Page.py -> Segunda página de la aplicación. (Descripción en 'Presentación'>'EVENTOS Y RECURSOS')
-Third_Page.py -> Tercera página de la aplicación. (Descripicón en 'Presentación'>'PLANIFICAR EVENTOS')
-Fourth_Page.py -> Cuarta página de la aplicación. (Descripición en 'Presentación'>'INFO')
-report.md -> Archivo de informe del proyecto.
+-Funciones.py -> Lógica backend del programa para verificar validez de eventos, guardar tipos de evento, recursos y eventos planificados.
+-main.py -> Página principal/home de la aplicación. En ella se define la navegación entre el resto de páginas.
+-DataBase.json -> Archivo para persistencia de datos.
+-Main_Page.py -> Priemra página de la aplicación. (Descripción en 'Presentación'>'EVENTOS PLANIFICADOS')
+-Second_Page.py -> Segunda página de la aplicación. (Descripción en 'Presentación'>'EVENTOS Y RECURSOS')
+-Third_Page.py -> Tercera página de la aplicación. (Descripicón en 'Presentación'>'PLANIFICAR EVENTOS')
+-Fourth_Page.py -> Cuarta página de la aplicación. (Descripición en 'Presentación'>'INFO')
+-report.md -> Archivo de informe del proyecto.
 
 ## PRESENTACIÓN:
 
