@@ -87,6 +87,10 @@ Intenté que el programa fuera lo más cómodo e intuitivo posible a la hora de 
 ## CONOCIMIENTOS ADQUIRIDOS DURANTE EL DESARROLLO DEL PROYECTO:
 Antes de realizar el proyecto, mis conocimientos sobre programación eran solamente lo que me habían enseñado a lo largo de la carrera, sin embargo, el tener que desarrollar el proyecto desde cero me obligó a buscar información sobre temas que no conocía o no había entendido del todo. Por ejemplo, gracias a canales de Youtube, preguntas a conocidos y familiares que supieran acerca del tema y preguntando a la IA sobre el funcionamiento de algunas cosas cuando no tenía a quien más preguntarle, logré un entendimiento más claro sobre el uso de las funciones y las clases en Python, así como el uso de bibliotecas como Streamlit y Pandas. Aprendí también como usar las bases de datos tipo Json. También aprendí (por las malas) a comentar el código y más específicamente que hace cada línea del mismo para no confundirme yo mismo con qué hacía cada línea de código. Aprendí, además, a usar la biblioteca datetime, la cual al principio me dio problemas para entender, pero luego de un rato comprendí cómo funcionaba. Pero lo más importante, aprendí que todavía me falta mucho por aprender acerca de programación y debo seguir estudiando para ampliar mis conocimientos.
 
+## AGREDECIMIENTOS:
+- Profesor Miguel Leyva
+- Leonardo Albert López
+- Orlando Valdés Montejo
 
 # CREADOR:
   **ANDRO AGUILERA CAZANAVE**
