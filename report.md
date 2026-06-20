@@ -10,14 +10,14 @@ Ejecutar la aplicación desde la terminal:
 Abrir su navegador en la direciión http://localhost:8501 o la URL señalada.
 
 ## ESTRUCTURA:
--Funciones.py -> Lógica backend del programa para verificar validez de eventos, guardar tipos de evento, recursos y eventos planificados.
--main.py -> Página principal/home de la aplicación. En ella se define la navegación entre el resto de páginas.
--DataBase.json -> Archivo para persistencia de datos.
--Main_Page.py -> Priemra página de la aplicación. (Descripción en 'Presentación'>'EVENTOS PLANIFICADOS')
--Second_Page.py -> Segunda página de la aplicación. (Descripción en 'Presentación'>'EVENTOS Y RECURSOS')
--Third_Page.py -> Tercera página de la aplicación. (Descripicón en 'Presentación'>'PLANIFICAR EVENTOS')
--Fourth_Page.py -> Cuarta página de la aplicación. (Descripición en 'Presentación'>'INFO')
--report.md -> Archivo de informe del proyecto.
+- Funciones.py -> Lógica backend del programa para verificar validez de eventos, guardar tipos de evento, recursos y eventos planificados.
+- main.py -> Página principal/home de la aplicación. En ella se define la navegación entre el resto de páginas.
+- DataBase.json -> Archivo para persistencia de datos.
+- Main_Page.py -> Priemra página de la aplicación. (Descripción en 'Presentación'>'EVENTOS PLANIFICADOS')
+- Second_Page.py -> Segunda página de la aplicación. (Descripción en 'Presentación'>'EVENTOS Y RECURSOS')
+- Third_Page.py -> Tercera página de la aplicación. (Descripicón en 'Presentación'>'PLANIFICAR EVENTOS')
+- Fourth_Page.py -> Cuarta página de la aplicación. (Descripición en 'Presentación'>'INFO')
+- report.md -> Archivo de informe del proyecto.
 
 ## PRESENTACIÓN:
 
