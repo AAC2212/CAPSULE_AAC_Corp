@@ -1,0 +1,4 @@
+- Python: version 3.12 o superiores.
+- streamlit: version 1.29.0 o superiores.
+- pandas: version 1.0.0 o superiores.
+- streamlit_calendar: version 0.2.0 o superiores.
