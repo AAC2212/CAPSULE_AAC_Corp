@@ -5,7 +5,7 @@
 La aplicación modela el Centro de Investigación AAC, en el cual se llevarían a cabo todos los eventos que se planifican usando los recursos disponibles (el personal del centro). La duración de cada evento estará dada en días y el período de planificación será de 10 años. ***El Centro de Investigación AAC es un lugar completamente imaginario, cualquier semejanza o parecido con la realidad es pura coincidencia.***
 
 ## ANTES DE USAR:
-Asegúrese de leer todas las instrucciones de uso mencionadas más adelante en este documento para evitar confusiones.
+Asegúrese de leer todas las instrucciones de uso mencionadas más adelante en este documento para evitar posibles confusiones a la hora de utilizarlo.
 
 ## USO:
 Ejecutar la aplicación desde la terminal de Visual Studio Code:
@@ -59,9 +59,13 @@ Cuarta página de la aplicación, muestra un breve resumen del funcionamiento y 
 
 ## RESTRICCIONES Y DEPENDENCIAS DE RECURSOS:
 Estas serán comprobadas de manera automática por el programa antes de permitir la planificación del evento.
-Restricciones: Los encargados de limpieza y encargados de almacén solo pueden ser utilizados para los eventos 'Limpieza' y 'Revisión de almacén' respectivamente.
-Dependencias: Para cualquier evento al que se le quiera asignar investigadores asistentes se le deberá asignar también al menos un investigador principal "para que los vigile".
-Estos son solo algunos ejemplos de las restricciones implementadas.
+- Restricciones:
+1. Los encargados de limpieza y encargados de almacén solo pueden ser utilizados para los eventos 'Limpieza' y 'Revisión de almacén' respectivamente.
+2. Sólo se pueden asignar un máximo de 20 asistentes por evento.
+- Dependencias:
+1. Para cualquier evento al que se le quiera asignar investigadores asistentes se le deberá asignar también al menos un investigador principal "para que los vigile".
+2. Para realizar un evento de 'Limpieza' se necesitan al menos 2 encargados de limpieza.
+*Estos son solo algunos ejemplos de las distintas restricciones implementadas en el programa.*
 
 ## REQUISITOS PARA EL USO:
 - Python: version 3.12 o superiores.
